@@ -1,0 +1,32 @@
+{
+    "data": {
+      "baseData": {
+        "application_Version": "9.0.0.2090",
+        "properties": {
+          "orgName": "test.crm.dynamics.com",
+          "source": "Microsoft Flow"
+        },
+        "severityLevel": null,
+        "ver": 2,
+        "id": "7LqwE",
+        "name": "GET /delay",
+        "resultCode": 200,
+        "duration": "00:00:03.5313947",
+        "success": true,
+        "data": "GET https://httpbin.org/delay/3",
+        "target": "httpbin.org",
+        "type": "HTTP"
+      },
+      "baseType": "RemoteDependencyData"
+    },
+    "iKey": "00000000-0000-0000-0000-000000000000",
+    "name": "Microsoft.ApplicationInsights.00000000-0000-0000-0000-000000000000.RemoteDependency",
+    "tags": {
+      "ai.cloud.roleInstance": null,
+      "ai.operation.id": null,
+      "ai.operation.name": null,
+      "ai.operation.parentid": null,
+      "ai.user.authUserId": null
+    },
+    "time": "2018-03-12T02:19:16.4442531Z"
+  }

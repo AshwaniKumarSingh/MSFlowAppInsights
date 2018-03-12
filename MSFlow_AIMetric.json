@@ -1,0 +1,35 @@
+{
+    "data": {
+      "baseData": {
+        "application_Version": "9.0.0.2090",
+        "dependencies": null,
+        "exceptions": null,
+        "measurements": null,
+        "message": null,
+        "metrics": [
+          {
+            "name": "NumericMetric1",
+            "kind": 0,
+            "value": 200
+          }
+        ],
+        "properties": {
+          "orgName": "test.crm.dynamics.com",
+          "source": "Microsoft Flow"
+        },
+        "severityLevel": null,
+        "ver": 2
+      },
+      "baseType": "MetricData"
+    },
+    "iKey": "00000000-0000-0000-0000-000000000000",
+    "name": "Microsoft.ApplicationInsights.00000000-0000-0000-0000-000000000000.Metric",
+    "tags": {
+      "ai.cloud.roleInstance": null,
+      "ai.operation.id": null,
+      "ai.operation.name": null,
+      "ai.operation.parentid": null,
+      "ai.user.authUserId": null
+    },
+    "time": "2018-03-11T20:45:32.6195226Z"
+  }

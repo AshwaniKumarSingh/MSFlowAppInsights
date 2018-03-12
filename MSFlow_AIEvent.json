@@ -1,0 +1,32 @@
+{
+    "data": {
+      "baseData": {
+        "application_Version": "9.0.0.2090",
+        "dependencies": null,
+        "exceptions": null,
+        "measurements": {
+          "SomethingTrackableNumber": 100
+        },
+        "message": null,
+        "metrics": null,
+        "name": "Test send custom event to Application Insights",
+        "properties": {
+          "orgName": "test.crm.dynamics.com",
+          "source": "Microsoft Flow"
+        },
+        "severityLevel": null,
+        "ver": 2
+      },
+      "baseType": "EventData"
+    },
+    "iKey": "00000000-0000-0000-0000-000000000000",
+    "name": "Microsoft.ApplicationInsights.00000000-0000-0000-0000-000000000000.Event",
+    "tags": {
+      "ai.cloud.roleInstance": null,
+      "ai.operation.id": null,
+      "ai.operation.name": null,
+      "ai.operation.parentid": null,
+      "ai.user.authUserId": null
+    },
+    "time": "2018-03-11T20:34:41.3232048Z"
+  }
